@@ -1,0 +1,11 @@
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\bin\Debug\netcoreapp2.2\WhatsNew.deps.json
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\bin\Debug\netcoreapp2.2\WhatsNew.runtimeconfig.json
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\bin\Debug\netcoreapp2.2\WhatsNew.runtimeconfig.dev.json
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\bin\Debug\netcoreapp2.2\WhatsNew.dll
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\obj\Debug\netcoreapp2.2\WhatsNew.csprojAssemblyReference.cache
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\obj\Debug\netcoreapp2.2\WhatsNew.csproj.CoreCompileInputs.cache
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\obj\Debug\netcoreapp2.2\WhatsNew.AssemblyInfoInputs.cache
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\obj\Debug\netcoreapp2.2\WhatsNew.AssemblyInfo.cs
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\bin\Debug\netcoreapp2.2\WhatsNew.pdb
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\obj\Debug\netcoreapp2.2\WhatsNew.dll
+C:\Users\jcastro\source\repos\WhatsNew\WhatsNew\obj\Debug\netcoreapp2.2\WhatsNew.pdb

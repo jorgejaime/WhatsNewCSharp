@@ -1,0 +1,17 @@
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\WhatsNew.Test.deps.json
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\WhatsNew.Test.runtimeconfig.json
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\WhatsNew.Test.runtimeconfig.dev.json
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\WhatsNew.Test.dll
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\WhatsNew.Test.pdb
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\WhatsNew.dll
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\bin\Debug\netcoreapp2.2\WhatsNew.pdb
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\obj\Debug\netcoreapp2.2\WhatsNew.Test.csprojAssemblyReference.cache
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\obj\Debug\netcoreapp2.2\WhatsNew.Test.csproj.CoreCompileInputs.cache
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\obj\Debug\netcoreapp2.2\WhatsNew.Test.AssemblyInfoInputs.cache
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\obj\Debug\netcoreapp2.2\WhatsNew.Test.AssemblyInfo.cs
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\obj\Debug\netcoreapp2.2\WhatsNew.Test.csproj.CopyComplete
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\obj\Debug\netcoreapp2.2\WhatsNew.Test.dll
+C:\Users\jcastro\source\repos\WhatsNew\NUnitTestProject1\obj\Debug\netcoreapp2.2\WhatsNew.Test.pdb
